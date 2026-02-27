@@ -1,3 +1,3 @@
-### http://gitflic.ru/project/mathros/mfua
+### https://gitflic.ru/project/mathros/mfua
 
 ## [Conspects](Conspects.md)
