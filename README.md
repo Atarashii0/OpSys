@@ -1,4 +1,5 @@
-### https://gitflic.ru/project/mathros/mfua
+## https://gitflic.ru/project/mathros/mfua
 
-## [labs](labs/labs.md)
+## [Лабораторные работы](labs/readme.md)
+
 ## [docs](docs/docs.md)
