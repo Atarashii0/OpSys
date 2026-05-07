@@ -2,4 +2,4 @@
 
 ## [Лабораторные работы](labs/readme.md)
 
-## [docs](docs/docs.md)
+## [Доклады](docs/readme.md)
