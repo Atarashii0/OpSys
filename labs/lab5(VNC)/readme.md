@@ -19,3 +19,7 @@
 # Загрузка данного скриншота по ssh и скачивание файла из каталога letunov/:
 
 ![](pics/down_load.png)
+
+![](pics/download)
+
+![](pics/load)
