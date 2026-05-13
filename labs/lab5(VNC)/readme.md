@@ -16,6 +16,10 @@
 
 ![](pics/1.png)
 
+# RDP:
+
+![](pics/rdp.png)
+
 # Загрузка данного скриншота по ssh и скачивание файла из каталога letunov/:
 
 ![](pics/down_load.png)
