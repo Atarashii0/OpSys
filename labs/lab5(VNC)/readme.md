@@ -20,6 +20,6 @@
 
 ![](pics/down_load.png)
 
-![](pics/download)
+![](pics/download.png)
 
-![](pics/load)
+![](pics/load.png)
