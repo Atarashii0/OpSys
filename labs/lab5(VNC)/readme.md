@@ -22,4 +22,4 @@
 
 ![](pics/download.png)
 
-![](pics/load.png)
+![](pics/upload.png)
