@@ -94,7 +94,7 @@ Screen - управление сессиями.
 
 # 11. Sleep
 
-![Manual](pics/sleepMAN.png)
+![](pics/sleepMAN.png)
 
 ![](pics/sleep.png)
 
