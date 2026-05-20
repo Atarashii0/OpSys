@@ -45,7 +45,11 @@ Screen - управление сессиями.
 
 # 3. Ps
 
+![Manual](pics/psMAN.png)
+
 ![](pics/ps.png)
+
+![](pics/ps1.png)
 
 # 4. Pstree
 
@@ -69,10 +73,28 @@ Screen - управление сессиями.
 
 # 9. Uptime
 
-![](uptime.png)
+![](pics/uptimeMAN.png)
 
 # 10. Screen
 
-![](screen.png)
+![](pics/screen.png)
+
+# 11. Sleep
+
+![Manual](pics/sleepMAN.png)
+
+![](pics/sleep.png)
+
+![](pics/jobs.png)
+
+# 12. Ping
+
+![](pics/ping.png)
+
+# 13. Kill
+
+![](pics/kill.png)
+
+![](pics/killSleep.png)
 
 # Вывод: В ходе выполнения лабораторной работы были освоены практические навыки управления процессами и мониторинга системных ресурсов в операционной системе Linux (на примере дистрибутива Debian). 
