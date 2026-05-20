@@ -88,11 +88,7 @@ Screen - управление сессиями.
 
 ![](pics/uptimeMAN.png)
 
-# 10. Screen
-
-![](pics/screen.png)
-
-# 11. Sleep
+# 10. Sleep
 
 ![](pics/sleepMAN.png)
 
@@ -100,11 +96,11 @@ Screen - управление сессиями.
 
 ![](pics/jobs.png)
 
-# 12. Ping
+# 11. Ping
 
 ![](pics/ping.png)
 
-# 13. Kill
+# 12. Kill
 
 ![](pics/kill.png)
 
