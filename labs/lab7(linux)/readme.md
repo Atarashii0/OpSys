@@ -61,7 +61,7 @@ Screen - управление сессиями.
 
 # 6. Pkill
 
-![](pics/pkill.png)
+![](pics/pkiil.png)
 
 # 7. Top
 
